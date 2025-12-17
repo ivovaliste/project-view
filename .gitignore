@@ -42,7 +42,7 @@ build/
 conf.env
 data/
 dist/
-.env
+
 .idea/
 /.idea
 /out
